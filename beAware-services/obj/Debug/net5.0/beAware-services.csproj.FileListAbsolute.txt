@@ -1,0 +1,36 @@
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.deps.json
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.runtimeconfig.json
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.runtimeconfig.dev.json
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.dll
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.pdb
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-models.pdb
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.csproj.AssemblyReference.cache
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.AssemblyInfoInputs.cache
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.AssemblyInfo.cs
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.csproj.CoreCompileInputs.cache
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.csproj.CopyComplete
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.dll
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\refint\beAware-services.dll
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.pdb
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.genruntimeconfig.cache
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\ref\beAware-services.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.deps.json
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.runtimeconfig.json
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.runtimeconfig.dev.json
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-services.pdb
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\bin\Debug\net5.0\beAware-models.pdb
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.csproj.AssemblyReference.cache
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.AssemblyInfoInputs.cache
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.AssemblyInfo.cs
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.csproj.CoreCompileInputs.cache
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.csproj.CopyComplete
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\refint\beAware-services.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.pdb
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\beAware-services.genruntimeconfig.cache
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-services\obj\Debug\net5.0\ref\beAware-services.dll

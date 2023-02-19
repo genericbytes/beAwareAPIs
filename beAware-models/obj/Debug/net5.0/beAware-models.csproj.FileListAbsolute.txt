@@ -1,0 +1,24 @@
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\bin\Debug\net5.0\beAware-models.deps.json
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\bin\Debug\net5.0\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\bin\Debug\net5.0\beAware-models.pdb
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.csproj.AssemblyReference.cache
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.GeneratedMSBuildEditorConfig.editorconfig
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.AssemblyInfoInputs.cache
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.AssemblyInfo.cs
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.csproj.CoreCompileInputs.cache
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\refint\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.pdb
+D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\ref\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\bin\Debug\net5.0\beAware-models.deps.json
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\bin\Debug\net5.0\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\bin\Debug\net5.0\beAware-models.pdb
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.csproj.AssemblyReference.cache
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.GeneratedMSBuildEditorConfig.editorconfig
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.AssemblyInfoInputs.cache
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.AssemblyInfo.cs
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.csproj.CoreCompileInputs.cache
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\refint\beAware-models.dll
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\beAware-models.pdb
+D:\VU\Semester 4\CS619\FYP\Final Submission - 1-19-23\apis-BeAware\beAware-APIs\beAware-models\obj\Debug\net5.0\ref\beAware-models.dll

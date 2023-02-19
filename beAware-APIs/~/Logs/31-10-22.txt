@@ -1,0 +1,7 @@
+=============Error Logging ===========
+===========Start============= 10/31/2022 12:36:13 PM
+Error Message: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+Stack Trace:    at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at beAware_services.Services.MediaService.MediaUploadService.UploadNewsImage(String virtualImg, Int32 id) in D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\Services\MediaUploadService\MediaUploadService.cs:line 55
+===========End============= 10/31/2022 12:36:14 PM

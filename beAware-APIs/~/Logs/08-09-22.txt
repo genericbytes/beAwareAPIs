@@ -1,0 +1,38 @@
+=============Error Logging ===========
+===========Start============= 9/8/2022 12:08:09 AM
+Error Message: Object reference not set to an instance of an object.
+Stack Trace:    at beAware_services.Services.MediaService.MediaUploadService.UploadNewsImage(String virtualImg, Int32 id) in D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\Services\MediaUploadService\MediaUploadService.cs:line 78
+   at beAware_services.Services.NewsService.NewsService.Post(NewsDTO obj) in D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\Services\NewsService\NewsService.cs:line 254
+===========End============= 9/8/2022 12:08:09 AM
+=============Error Logging ===========
+===========Start============= 9/8/2022 11:07:21 AM
+Error Message: Object reference not set to an instance of an object.
+Stack Trace:    at beAware_services.Services.MediaService.MediaUploadService.UploadNewsImage(String virtualImg, Int32 id) in D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\Services\MediaUploadService\MediaUploadService.cs:line 78
+   at beAware_services.Services.NewsService.NewsService.Post(NewsDTO obj) in D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\Services\NewsService\NewsService.cs:line 254
+===========End============= 9/8/2022 11:07:21 AM
+=============Error Logging ===========
+===========Start============= 9/8/2022 9:32:06 PM
+Error Message: An exception was thrown while attempting to evaluate a LINQ query parameter expression. See the inner exception for more information. To show additional information call 'DbContextOptionsBuilder.EnableSensitiveDataLogging'.
+Stack Trace:    at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Evaluate(Expression expression, Boolean generateParameter)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitLambda[T](Expression`1 node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Linq.Expressions.ExpressionVisitor.VisitUnary(UnaryExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at System.Dynamic.Utils.ExpressionVisitorUtils.VisitArguments(ExpressionVisitor visitor, IArgumentProvider nodes)
+   at System.Linq.Expressions.ExpressionVisitor.VisitMethodCall(MethodCallExpression node)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.Visit(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.ExtractParameters(Expression expression)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExtractParameters(Expression query, IParameterValues parameterValues, IDiagnosticsLogger`1 logger, Boolean parameterize, Boolean generateContextAccessors)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   at beAware_services.Services.MediaService.MediaUploadService.UploadNewsImage(String virtualImg, Int32 id)
+InnerException Message: System.NullReferenceException: Object reference not set to an instance of an object.
+   at lambda_method190(Closure )
+   at Microsoft.EntityFrameworkCore.Query.Internal.ParameterExtractingExpressionVisitor.GetValue(Expression expression, String& parameterName)
+===========End============= 9/8/2022 9:32:06 PM

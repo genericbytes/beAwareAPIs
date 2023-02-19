@@ -1,0 +1,8 @@
+=============Error Logging ===========
+===========Start============= 1/19/2023 1:46:05 PM
+Error Message: The entity type 'List<ReportedNews>' was not found. Ensure that the entity type has been added to the model.
+Stack Trace:    at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges[TEntity](TEntity entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Entry[TEntity](TEntity entity)
+   at beAware_services.Services.NewsService.NewsService.Delete(Int32 id) in D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\Services\NewsService\NewsService.cs:line 545
+===========End============= 1/19/2023 1:46:06 PM

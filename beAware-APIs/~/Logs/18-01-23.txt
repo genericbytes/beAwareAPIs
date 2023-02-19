@@ -1,0 +1,5 @@
+=============Error Logging ===========
+===========Start============= 1/18/2023 11:49:33 PM
+Error Message: Object reference not set to an instance of an object.
+Stack Trace:    at beAware_services.Services.CategoryService.CategoryService.Put(CategoryDTO obj)
+===========End============= 1/18/2023 11:49:33 PM

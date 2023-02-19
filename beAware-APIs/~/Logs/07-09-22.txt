@@ -1,0 +1,15 @@
+=============Error Logging ===========
+===========Start============= 9/7/2022 2:52:28 PM
+Error Message: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+CategoryDTO -> Category
+beAware_models.DTOs.Category.CategoryDTO -> beAware_models.Models.Category
+Stack Trace:    at lambda_method17(Closure , Object , Category , ResolutionContext )
+   at beAware_services.Services.CategoryService.CategoryService.Post(CategoryDTO obj) in D:\VU\Semester 4\CS619\FYP\apis-BeAware\beAware-APIs\beAware-services\Services\CategoryService\CategoryService.cs:line 88
+===========End============= 9/7/2022 2:52:28 PM
+=============Error Logging ===========
+===========Start============= 9/7/2022 9:08:53 PM
+Error Message: Object reference not set to an instance of an object.
+Stack Trace:    at beAware_services.Services.UserService.UserService.Put(User obj)
+===========End============= 9/7/2022 9:08:53 PM
